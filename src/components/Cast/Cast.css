@@ -1,0 +1,19 @@
+.cast-card{
+    min-height: 300px;
+    box-shadow: 3px 3px 3px lightgray;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    background-color: seagreen;
+}
+.cast-card img{
+    width: 50%;
+    border-radius: 50%;
+}
+.adding-button{
+    padding: 5px 10px;
+    color: seagreen;
+    cursor: pointer;
+    font-weight: 700;
+}
